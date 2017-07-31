@@ -1,5 +1,5 @@
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>4</formatVersion>
     <include>./../metro.xml</include>
 
 	<view name="system">
@@ -9,7 +9,7 @@
 		<image name="system_logo" extra="true">
 		    <path>./logo.png</path>
 			<tile>false</tile>
-			<color>E77E22</color>
+			<color>1ABC9C</color>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
@@ -17,11 +17,7 @@
 		
 		<image name="system_mascot" extra="true">
 		    <path>./mascot.png</path>
-			<tile>false</tile>
-			<color>D25400</color>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
+			<color>16A085</color>
 		</image>
 	
 		<image name="logo">
@@ -29,14 +25,14 @@
         </image>
 		
 		<image name="background_systembox" extra="true">
-			<color>E77E22</color>
+			<color>1ABC9C</color>
 		</image>
 		
 	</view>
 	
 		<view name="basic">
 			<image name="background_basicbox" extra="true">
-			<color>E77E22</color>
+			<color>1ABC9C</color>
 		</image>
 		
 		</view>
@@ -46,27 +42,27 @@
 	<!-- Player Meta -->
 	
 		<text name="md_lbl_players">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
 		<text name="md_players">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>	
 		
 		<text name="md_lbl_playcount">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
 		<text name="md_playcount">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>	
 		
 		<text name="md_lbl_lastplayed">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
 		<datetime name="md_lastplayed">
-			<color>D25400</color>
+			<color>16A085</color>
 		</datetime>
 		
 		<!-- End Player Meta -->
@@ -74,27 +70,27 @@
 		<!-- Game Meta -->
 		
 		<text name="md_lbl_genre">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
 		<text name="md_genre">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>	
 		
 		<text name="md_lbl_developer">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
 		<text name="md_developer">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>	
 		
 		<text name="md_lbl_publisher">
-			<color>D25400</color>
+			<color>16A085</color>
 		</text>
 		
-		<text  name="md_publisher">
-			<color>D25400</color>
+		<text name="md_publisher">
+			<color>16A085</color>
 		</text>	
 		<!-- End Game Meta -->
 		
@@ -102,29 +98,17 @@
 	
 	<view name="basic, detailed, video">
 	
-		<image name="set_logo" extra="true">
+		<image name="logo">
 			<path>./system.png</path>
-			<pos>0.035 0.375</pos>
         </image>
 	
 		<image name="background_systembox" extra="true">
-			<color>E77E22</color>
+			<color>1ABC9C</color>
 		</image>
 		
 		<image name="background_detailedbox" extra="true">
-			<color>E77E22</color>
+			<color>1ABC9C</color>
 		</image>
-
-		<!-- <text name="logoText" extra="true">
-			<text>Gameboy Colour</text>
-		<forceUppercase>1</forceUppercase> 
-			<size>0.45 0.08</size>
-			<pos>0.28 0.045</pos>
-			<color>ffffff</color>
-			<fontPath>./../assets/font2.ttf</fontPath>
-			<fontSize>0.06</fontSize>
-			<alignment>center</alignment>
-		</text>-->
 		
 	</view>
 	

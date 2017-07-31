@@ -8,11 +8,7 @@
 	
 		<image name="system_logo" extra="true">
 		    <path>./logo.png</path>
-			<tile>false</tile>
 			<color>1ABC9C</color>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
 		</image>
 		
 		<image name="system_mascot" extra="true">
