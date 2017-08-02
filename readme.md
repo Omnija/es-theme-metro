@@ -5,7 +5,8 @@ For use with EmulationStation (http://www.emulationstation.org/)
 ### Notes
 
 ### Featured Sizes
-* Currently supports 720p
+* 1080p
+* 720p
 
 ## Install Themes
 Transfer es_theme_metro to /etc/emulationstation/themes/
@@ -24,6 +25,7 @@ Open Menu -> Select UI Settings ->  Theme Set
 * Finish All Rating Icons (Per System)
 * Polish Icons/Logos and Mascots Images
 * Fix/Change Fonts and Text Spacing
+* Redo Rating Icons to a better ratio
 * Support More Resolutions
 
 ## Screenshots
