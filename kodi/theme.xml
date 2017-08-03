@@ -97,12 +97,6 @@
 		<image name="logo">
 			<path>./system.png</path>
         </image>
-		
-		<rating name="md_rating">
-			<filledPath>./rate-full.png</filledPath>
-			<unfilledPath>./rate-empty.png</unfilledPath>
-			<!-- <color>E74C3C</color> -->
-		</rating>
 	
 		<image name="background_systembox" extra="true">
 			<color>3498DB</color>

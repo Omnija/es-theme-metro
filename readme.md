@@ -26,6 +26,7 @@ Open Menu -> Select UI Settings ->  Theme Set
 * Polish Icons/Logos and Mascots Images
 * Fix/Change Fonts and Text Spacing
 * Redo Rating Icons to a better ratio
+* Set up Video Mode better
 * Support More Resolutions
 
 ## Screenshots
