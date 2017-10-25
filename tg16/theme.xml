@@ -1,5 +1,5 @@
 <theme>
-    <formatVersion>4</formatVersion>
+    <formatVersion>3</formatVersion>
     <include>./../metro.xml</include>
 
 	<view name="system">
@@ -8,12 +8,12 @@
 	
 		<image name="system_logo" extra="true">
 		    <path>./logo.png</path>
-			<color>1ABC9C</color>
+			<color>E77E22</color>
 		</image>
 		
 		<image name="system_mascot" extra="true">
 		    <path>./mascot.png</path>
-			<color>16A085</color>
+			<color>D25400</color>
 		</image>
 	
 		<image name="logo">
@@ -21,14 +21,14 @@
         </image>
 		
 		<image name="background_systembox" extra="true">
-			<color>1ABC9C</color>
+			<color>E77E22</color>
 		</image>
 		
 	</view>
 	
 		<view name="basic">
 			<image name="background_basicbox" extra="true">
-			<color>1ABC9C</color>
+			<color>E77E22</color>
 		</image>
 		
 		</view>
@@ -38,27 +38,27 @@
 	<!-- Player Meta -->
 	
 		<text name="md_lbl_players">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
 		<text name="md_players">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>	
 		
 		<text name="md_lbl_playcount">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
 		<text name="md_playcount">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>	
 		
 		<text name="md_lbl_lastplayed">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
 		<datetime name="md_lastplayed">
-			<color>16A085</color>
+			<color>D25400</color>
 		</datetime>
 		
 		<!-- End Player Meta -->
@@ -66,27 +66,27 @@
 		<!-- Game Meta -->
 		
 		<text name="md_lbl_genre">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
 		<text name="md_genre">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>	
 		
 		<text name="md_lbl_developer">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
 		<text name="md_developer">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>	
 		
 		<text name="md_lbl_publisher">
-			<color>16A085</color>
+			<color>D25400</color>
 		</text>
 		
-		<text name="md_publisher">
-			<color>16A085</color>
+		<text  name="md_publisher">
+			<color>D25400</color>
 		</text>	
 		<!-- End Game Meta -->
 		
@@ -105,12 +105,13 @@
 		</rating>
 	
 		<image name="background_systembox" extra="true">
-			<color>1ABC9C</color>
+			<color>E77E22</color>
 		</image>
 		
 		<image name="background_detailedbox" extra="true">
-			<color>1ABC9C</color>
+			<color>E77E22</color>
 		</image>
+
 		
 	</view>
 	
